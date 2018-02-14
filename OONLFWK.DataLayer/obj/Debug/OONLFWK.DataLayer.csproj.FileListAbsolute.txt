@@ -1,0 +1,14 @@
+C:\Users\ADEBAYO KEHINDE\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\OONLFWK.DataLayer.dll
+C:\Users\ADEBAYO KEHINDE\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\OONLFWK.DataLayer.pdb
+C:\Users\ADEBAYO KEHINDE\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\obj\Debug\OONLFWK.DataLayer.dll
+C:\Users\ADEBAYO KEHINDE\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\obj\Debug\OONLFWK.DataLayer.pdb
+C:\Users\ADEBAYO KEHINDE\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\obj\Debug\OONLFWK.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADEBAYO KEHINDE\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\ADEBAYO KEHINDE\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\kennymore\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\OONLFWK.DataLayer.dll
+C:\Users\kennymore\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\OONLFWK.DataLayer.pdb
+C:\Users\kennymore\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\kennymore\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\kennymore\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\obj\Debug\OONLFWK.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\kennymore\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\obj\Debug\OONLFWK.DataLayer.dll
+C:\Users\kennymore\Documents\Visual Studio 2013\Projects\OONLFWK\OONLFWK.DataLayer\obj\Debug\OONLFWK.DataLayer.pdb
